@@ -48,7 +48,7 @@ class _HomeState extends State<Home> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       Text(
-                        '    Total -                                           90000',
+                        '    Total -                                       90000',
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.bold,

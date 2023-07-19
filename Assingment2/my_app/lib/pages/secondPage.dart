@@ -41,7 +41,7 @@ class _SecondaryState extends State<Secondary> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     const Text(
-                      '    Total -                                           48700',
+                      '    Total -                                         48700',
                       style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
